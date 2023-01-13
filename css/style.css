@@ -341,6 +341,13 @@ button{
 .footer_wrapper .footer-logo img{
     width: 100px;
 }
+.footer-logo span
+{
+    color: var(--primary-color);
+    font-size: 32px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
 .footer_wrapper .social-icon li{
     margin: 6px;
 }
